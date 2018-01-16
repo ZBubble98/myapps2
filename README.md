@@ -1,0 +1,5 @@
+myProject 1: A simple android app that makes requests to the Google Sheets API. Followed the example in this link https://developers.google.com/sheets/api/quickstart/android. Created new google doc with link https://docs.google.com/spreadsheets/d/1oYrhHvKqJ6OsnB5M4Y2jM4CksVFw_WVx3U5VlWJWXzo/edit#gid=0. It reads the google sheet based on spreadsheetID. Click button CALL GOOGLE SHEETS API, it will read the google doc in above link and display the column A, Column D and Column E in the result.
+
+Project 2: This small project uses Android to create small app that goes to multiple screens. It can also pass information from one screen to another screen. Here are the screen shots. Click button second activity, it goes to the next screen with HELLO WORLD! On it. HELLO WORLD is hard coded and passed on from first screen. When click GOOGLE button, it opens google web site.
+
+Project 3: The project learns how to use listviews. It created a list of items with ListViews and created a custom layout to display the items. When click each item, it displays the image of the item. Here are the screen shots:apps2
